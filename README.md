@@ -1,8 +1,8 @@
 # 以太坊开发 Ethereum Development
 
 # 一、以太坊简介 About Ethereum
-简介，介绍区块链基本概念
 
+- 区块链基本概念
 - 客户端
 - 帐户(私钥、公钥)
 - 网络
