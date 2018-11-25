@@ -1,6 +1,6 @@
 # 以太坊开发 Ethereum Development
 
-# 一、以太坊简介 About Ethereum
+# 一、[以太坊简介 About Ethereum](01-about-ethereum.md)
 
 - 区块链基本概念
 - 客户端
