@@ -1,9 +1,13 @@
+仓库地址：https://github.com/xyths/ethereum-development
+
 # 一、以太坊简介 About Ethereum
 
 ## 比特币&区块链
 
 ### 比特币
+
 一种点对点电子现金系统。
+
 ### 区块链
 
 - 匿名
@@ -11,7 +15,7 @@
 - 不可篡改
 - 去中心化
 
-## 以太坊基本概念
+## 以太坊
 
 > Ethereum is a decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third-party interference.
 
@@ -48,7 +52,6 @@ Account #0: {d2469e98cb024b244a43e027501d1d08404061cb} keystore:///Users/alex/Li
 ### 账户目录结构
 
 ![以太坊钱包目录结构](ch01/ethereum_wallet_tree.png)
-
 
 ## 网络
 

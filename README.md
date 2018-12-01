@@ -1,8 +1,12 @@
 # 以太坊开发 Ethereum Development
 
+仓库地址：https://github.com/xyths/ethereum-development
+
 # 一、[以太坊简介 About Ethereum](01-about-ethereum.md)
 
-- 区块链基本概念
+- 比特币
+- 区块链
+- 以太坊
 - 客户端
 - 帐户(私钥、公钥)
 - 网络
