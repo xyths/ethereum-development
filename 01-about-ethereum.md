@@ -71,7 +71,7 @@ https://etherscan.io/
 ## HD钱包及助记词
 
 - Ganache https://truffleframework.com/ganache
-- imToken https://token.im/download?locale=en-US
+- imToken2.0 https://token.im/download?locale=en-US
 
 ![imToken2.0](ch01/imToken2.0_logo.png)
 
