@@ -1,10 +1,8 @@
-# 01-about-ethereum
+# 以太坊简介
 
-仓库地址：[https://github.com/xyths/ethereum-development](https://github.com/xyths/ethereum-development)
+## 比特币&区块链
 
-## 一、以太坊简介 About Ethereum
-
-### 比特币&区块链
+## 
 
 #### 比特币
 
