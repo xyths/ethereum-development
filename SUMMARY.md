@@ -10,11 +10,15 @@
 
 * [区块链简介](qu-kuai-lian-jian-jie-1/qu-kuai-lian-jian-jie.md)
 * [区块链应用开发](qu-kuai-lian-jian-jie-1/untitled.md)
-* [以太坊介绍](qu-kuai-lian-jian-jie-1/01-about-ethereum.md)
 
 ## 以太坊介绍
 
-* [Untitled](yi-tai-fang-jie-shao/untitled.md)
+* [以太坊介绍](yi-tai-fang-jie-shao/01-about-ethereum.md)
+* [官方客户端](yi-tai-fang-jie-shao/guan-fang-ke-hu-duan.md)
+* [帐户](yi-tai-fang-jie-shao/zhang-hu.md)
+* [网络](yi-tai-fang-jie-shao/wang-luo.md)
+* [区块链浏览器](yi-tai-fang-jie-shao/qu-kuai-lian-lan-qi.md)
+* [插件钱包](yi-tai-fang-jie-shao/untitled.md)
 
 ## 以太坊开发工具
 

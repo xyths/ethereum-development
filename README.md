@@ -4,7 +4,7 @@
 
 仓库地址：[https://github.com/xyths/ethereum-development](https://github.com/xyths/ethereum-development)
 
-## 一、[以太坊简介 About Ethereum](qu-kuai-lian-jian-jie-1/01-about-ethereum.md)
+## 一、[以太坊简介 About Ethereum](yi-tai-fang-jie-shao/01-about-ethereum.md)
 
 * 比特币&区块链
 * 以太坊
