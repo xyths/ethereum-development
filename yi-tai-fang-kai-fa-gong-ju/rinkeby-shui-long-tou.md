@@ -4,9 +4,9 @@
 
 以太坊 Rinkeby 网络的水龙头 [https://faucet.rinkeby.io/](https://faucet.rinkeby.io/) 是免费领取Ether的网站。用户只需要在社交网站上贴出含有地址的帖子（前后有内容也行），并把网址贴到水龙头，即可领取Ether。领取的频率有8小时、1天、3天，非常方便。
 
-## 领取代币
+## 领取Ether
 
-领取代币时，首先拷贝自己的账户地址到社交网络（支持Twitter、Facebook、Google+）。比如我是从MetaMask钱包拷贝。
+领取Ether时，首先拷贝自己的账户地址到社交网络（支持Twitter、Facebook、Google+）。比如我是从MetaMask钱包拷贝。
 
 ![&#x590D;&#x5236;&#x5730;&#x5740;](../.gitbook/assets/image.png)
 
@@ -14,7 +14,7 @@
 
 ![&#x53D1;&#x5E03;&#x5230;Twitter](../.gitbook/assets/image%20%281%29.png)
 
-拷贝地址（如[https://twitter.com/XingAlexander/status/1073119030494429184](https://twitter.com/XingAlexander/status/1073119030494429184)）到水龙头
+拷贝该条推特地址（如[https://twitter.com/XingAlexander/status/1073119030494429184](https://twitter.com/XingAlexander/status/1073119030494429184)）到水龙头
 
 ![&#x62F7;&#x8D1D;&#x63A8;&#x7279;&#x5730;&#x5740;&#x5230;&#x6C34;&#x9F99;&#x5934;](../.gitbook/assets/image%20%282%29.png)
 
