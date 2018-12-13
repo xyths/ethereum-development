@@ -27,7 +27,7 @@
 
 以太坊节点的硬盘空间现在是120G（见 [https://etherscan.io/chart2/chaindatasizefast](https://etherscan.io/chart2/chaindatasizefast) ），因此一般的电脑很难同步，也没办法存这么大的文件。
 
-![&#x4EE5;&#x592A;&#x574A;&#x4E3B;&#x7F51;&#x533A;&#x5757;&#x5927;&#x5C0F;](.gitbook/assets/ethereum_chaindata_fast_size.png)
+![&#x4EE5;&#x592A;&#x574A;&#x4E3B;&#x7F51;&#x533A;&#x5757;&#x5927;&#x5C0F;](../.gitbook/assets/ethereum_chaindata_fast_size.png)
 
 #### 安装Geth
 
@@ -53,7 +53,7 @@ Account #0: {d2469e98cb024b244a43e027501d1d08404061cb} keystore:///Users/alex/Li
 
 #### 账户目录结构
 
-![&#x4EE5;&#x592A;&#x574A;&#x94B1;&#x5305;&#x76EE;&#x5F55;&#x7ED3;&#x6784;](.gitbook/assets/ethereum_wallet_tree.png)
+![&#x4EE5;&#x592A;&#x574A;&#x94B1;&#x5305;&#x76EE;&#x5F55;&#x7ED3;&#x6784;](../.gitbook/assets/ethereum_wallet_tree.png)
 
 ### 网络
 
@@ -75,7 +75,7 @@ Account #0: {d2469e98cb024b244a43e027501d1d08404061cb} keystore:///Users/alex/Li
 * Ganache [https://truffleframework.com/ganache](https://truffleframework.com/ganache)
 * imToken2.0 [https://token.im/download?locale=en-US](https://token.im/download?locale=en-US)
 
-![imToken2.0](.gitbook/assets/imtoken2.0_logo.png)
+![imToken2.0](../.gitbook/assets/imtoken2.0_logo.png)
 
 ### 插件钱包
 
