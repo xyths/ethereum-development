@@ -2,7 +2,7 @@
 
 ## 水龙头
 
-以太坊 Rinkeby 网络的水龙头 [https://faucet.rinkeby.](https://faucet.rinkeby.io/) 是免费领取Ether的网站。用户只需要在社交网站上贴出含有地址的帖子（前后有内容也行），并把网址贴到水龙头，即可领取Ether。领取的频率有8小时、1天、3天，非常方便。
+以太坊 Rinkeby 网络的水龙头 [https://faucet.rinkeby.io/](https://faucet.rinkeby.io/) 是免费领取Ether的网站。用户只需要在社交网站上贴出含有地址的帖子（前后有内容也行），并把网址贴到水龙头，即可领取Ether。领取的频率有8小时、1天、3天，非常方便。
 
 ## 领取代币
 
