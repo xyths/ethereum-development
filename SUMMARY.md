@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [README](readme.md)
+* [目录](README.md)
 
 ## 关于本书
 
