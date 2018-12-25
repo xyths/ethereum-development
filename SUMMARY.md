@@ -1,6 +1,7 @@
 # Table of contents
 
-* [README](README.md)
+* [Introduction](README.md)
+* [README](readme.md)
 
 ## 关于本书
 
@@ -8,8 +9,8 @@
 
 ## 区块链简介
 
-* [区块链简介](qu-kuai-lian-jian-jie-1/qu-kuai-lian-jian-jie.md)
-* [区块链应用开发](qu-kuai-lian-jian-jie-1/untitled.md)
+* [区块链简介](qu-kuai-lian-jian-jie/qu-kuai-lian-jian-jie.md)
+* [区块链应用开发](qu-kuai-lian-jian-jie/untitled.md)
 
 ## 以太坊介绍
 
@@ -36,15 +37,15 @@
 ## 服务端开发
 
 * [Go语言和Gin框架](fu-wu-duan-kai-fa/untitled.md)
-* [API简介](fu-wu-duan-kai-fa/api-jian-jie.md)
+* [以太坊API简介](fu-wu-duan-kai-fa/api-jian-jie.md)
 * [处理日志](fu-wu-duan-kai-fa/chu-li-ri-zhi.md)
 * [写入数据库](fu-wu-duan-kai-fa/xie-ru-shu-ju-ku.md)
 * [提供API](fu-wu-duan-kai-fa/ti-gong-api.md)
 
 ## DApp开发
 
-* [前端框架React](dapp/untitled.md)
-* [展示页面开发](dapp/zhan-shi-ye-mian-kai-fa.md)
-* [与区块链交互](dapp/yu-qu-kuai-lian-jiao-hu.md)
-* [汇总在一起](dapp/hui-zong-zai-yi-qi.md)
+* [前端框架React](dapp-kai-fa/untitled.md)
+* [展示页面开发](dapp-kai-fa/zhan-shi-ye-mian-kai-fa.md)
+* [与区块链交互](dapp-kai-fa/yu-qu-kuai-lian-jiao-hu.md)
+* [汇总在一起](dapp-kai-fa/hui-zong-zai-yi-qi.md)
 
