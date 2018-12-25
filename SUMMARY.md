@@ -29,11 +29,9 @@
 
 ## 合约开发
 
-* [Untitled](he-yue-kai-fa/untitled.md)
-
-## 合约测试
-
-* [Untitled](he-yue-ce-shi/untitled.md)
+* [合约开发](he-yue-kai-fa/untitled.md)
+* [用Solidity测试](he-yue-kai-fa/untitled-1.md)
+* [用JavaScript测试](he-yue-kai-fa/yong-javascript-ce-shi.md)
 
 ## 服务端开发
 
