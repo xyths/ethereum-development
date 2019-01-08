@@ -22,11 +22,11 @@
 
 ## 以太坊开发工具
 
-* [MetaMask](yi-tai-fang-kai-fa-gong-ju/untitled.md)
-* [Remix](yi-tai-fang-kai-fa-gong-ju/remix.md)
-* [Rinkeby水龙头](yi-tai-fang-kai-fa-gong-ju/rinkeby-shui-long-tou.md)
-* [Truffle](yi-tai-fang-kai-fa-gong-ju/truffle.md)
-* [Ganache](yi-tai-fang-kai-fa-gong-ju/ganache.md)
+* [MetaMask](ch03-ethereum-dev-tools/untitled.md)
+* [Remix](ch03-ethereum-dev-tools/remix.md)
+* [Rinkeby水龙头](ch03-ethereum-dev-tools/rinkeby-shui-long-tou.md)
+* [Truffle](ch03-ethereum-dev-tools/truffle.md)
+* [Ganache](ch03-ethereum-dev-tools/ganache.md)
 
 ## 合约开发
 
