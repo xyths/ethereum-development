@@ -8,8 +8,8 @@
 
 ## 区块链简介
 
-* [区块链简介](qu-kuai-lian-jian-jie/qu-kuai-lian-jian-jie.md)
-* [区块链应用开发](qu-kuai-lian-jian-jie/untitled.md)
+* [区块链简介](ch01-about-blockchain/qu-kuai-lian-jian-jie.md)
+* [区块链应用开发](ch01-about-blockchain/untitled.md)
 
 ## 以太坊介绍
 
