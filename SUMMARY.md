@@ -13,12 +13,12 @@
 
 ## 以太坊介绍
 
-* [以太坊介绍](yi-tai-fang-jie-shao/01-about-ethereum.md)
-* [官方客户端](yi-tai-fang-jie-shao/guan-fang-ke-hu-duan.md)
-* [帐户](yi-tai-fang-jie-shao/zhang-hu.md)
-* [网络](yi-tai-fang-jie-shao/wang-luo.md)
-* [区块链浏览器](yi-tai-fang-jie-shao/qu-kuai-lian-lan-qi.md)
-* [插件钱包](yi-tai-fang-jie-shao/untitled.md)
+* [以太坊介绍](ch02-about-ethereum/01-about-ethereum.md)
+* [官方客户端](ch02-about-ethereum/guan-fang-ke-hu-duan.md)
+* [帐户](ch02-about-ethereum/zhang-hu.md)
+* [网络](ch02-about-ethereum/wang-luo.md)
+* [区块链浏览器](ch02-about-ethereum/qu-kuai-lian-lan-qi.md)
+* [插件钱包](ch02-about-ethereum/untitled.md)
 
 ## 以太坊开发工具
 
